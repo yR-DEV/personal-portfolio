@@ -1,11 +1,11 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "portfolio",
+    "name": "personal-portfolio",
     "version": "5.1.2",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "portfolio",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,15 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://zackclaar.io",
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Zack Claar",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "url": "https://github.com/yR-DEV/personal-portfolio"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.9.0",
